@@ -4,7 +4,7 @@
  * instagram: https://instagram.com/datascience.kor?utm_medium=copy_link
 
 ## member
-- 2021.11.~ 2021.12: 임하린, 김혜진, 김영채, 강재영, 임성수, 황성아, 정다연, 김병모, 김혜현
+- 2021.11.~ 2021.12: 임하린, 김혜진, 김영채, 강재영, 임성수, [황성아](https://github.com/SungaHwang), 정다연, 김병모, 김혜현
 - 2022.01 ~ 2022.03: [황성아](https://github.com/SungaHwang), 강재영, 김혜현, 김병모, 김가영
 ## 
 - 1주차: 딥러닝 기초, NGBoost, Partial Dependence Plot
