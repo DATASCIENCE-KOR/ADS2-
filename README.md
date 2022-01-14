@@ -6,7 +6,7 @@
 ## 인스타그램에 업로드 하지 않은 결과물(ppt,code) 업로드
  * instagram: https://instagram.com/datascience.kor?utm_medium=copy_link
 
-## member
+## members
 - 2021.11.~ 2021.12: 임하린, 김혜진, 김영채, 강재영, 임성수, [황성아](https://github.com/SungaHwang), 정다연, 김병모, 김혜현
 - 2022.01 ~ 2022.03: [황성아](https://github.com/SungaHwang), 강재영, 김혜현, 김병모, 김가영
 
