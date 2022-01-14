@@ -1,13 +1,13 @@
 # ADS 2기 기록 (2021.11. ~ 2022.03)
 
-# 인스타그램에 업로드 하지 않은 결과물(ppt,code) 업로드
+## 인스타그램에 업로드 하지 않은 결과물(ppt,code) 업로드
  * instagram: https://instagram.com/datascience.kor?utm_medium=copy_link
 
-# member
+## member
 - 2021.11.~ 2021.12: 
 - 2022.01 ~ 2022.03: [황성아](https://github.com/SungaHwang)
 
-# 
+## 
 - 1주차: 딥러닝 기초, NGBoost, Partial Dependence Plot
 - 2주차: 딥러닝 기초2, GBM 논문, NGBoost2
 - 3주차: 군집 분석, 실체 딥러닝 ch4, GBM 논문 2
