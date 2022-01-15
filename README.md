@@ -1,14 +1,11 @@
 # ADS 스터디 기록 (2021.11. ~ 2022.03)
 
-## ADS 소개
-- 
-
-## 인스타그램에 업로드 하지 않은 결과물(ppt,code) 업로드
+## 인스타그램에 업로드 하지 않은 결과물(ppt,pdf,code) 정리
  * instagram: https://instagram.com/datascience.kor?utm_medium=copy_link
 
 ## members
-- 2021.11.~ 2021.12: 임하린, 김혜진, 김영채, 강재영, 임성수, [황성아](https://github.com/SungaHwang), 정다연, 김병모, 김혜현
-- 2022.01 ~ 2022.03: [황성아](https://github.com/SungaHwang), 강재영, 김혜현, 김병모, 김가영
+- 2021.11.~ 2021.12: 임하린👸🏻, 김혜진, 김영채, [강재영](https://github.com/JAE-YOUNG-KANG), [임성수](https://github.com/dschomme), [황성아](https://github.com/SungaHwang), 정다연, [구병모](https://github.com/Koo-bm), [김혜현](https://github.com/K-hyeon)
+- 2022.01 ~ 2022.03: [황성아](https://github.com/SungaHwang)👸🏻, [강재영](https://github.com/JAE-YOUNG-KANG), [김혜현](https://github.com/K-hyeon), [구병모](https://github.com/Koo-bm), 김가영
 
 ## Contents
 - 1주차: 딥러닝 기초, NGBoost, Partial Dependence Plot
