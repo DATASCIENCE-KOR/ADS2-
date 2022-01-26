@@ -1,4 +1,4 @@
-# ADS 스터디 기록 (2021.11. ~ 2022.03)
+# ADS 스터디 기록 (2021.11. ~ 2022.03.)
 
 ## 인스타그램에 업로드 하지 않은 결과물/ 자료(ppt,pdf,code) 정리
  * instagram: https://instagram.com/datascience.kor?utm_medium=copy_link
@@ -18,3 +18,4 @@
 - 8주차: 실체 딥러닝 ch6, t-SNE
 - 9주차: 실체 딥러닝 ch7, 차원축소 
 - 10주차: CNN, Decision Tree
+- 11주차: LeNet&AlexNet, ZFNet&VGGNet, GoogleNet(Inception), ResNet, Random Forest
