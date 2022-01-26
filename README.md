@@ -19,3 +19,4 @@
 - 9주차: 실체 딥러닝 ch7, 차원축소 
 - 10주차: CNN, Decision Tree
 - 11주차: LeNet&AlexNet, ZFNet&VGGNet, GoogleNet(Inception), ResNet, Random Forest
+- 12주차: Adaboost, Gradient Boosting Machine
