@@ -22,4 +22,3 @@
 - 12주차: Adaboost, Gradient Boosting Machine
 - 13주차: XGBoost, LightGBM, LeNet, AlexNet, ZFNet, VGGNet
 - 14주차: GoogleNet(Inception), ResNet
-
